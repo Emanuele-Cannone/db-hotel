@@ -60,17 +60,4 @@ WHERE document_type = "Driver License" AND YEAR(date_of_birth) = '1975';\
 \
 SELECT SUM(beds)\
 FROM `stanze`;\
-\
-\
-\
-\
-\
-\
-ESERCIZIO 08-03-21\
-\
-\
-\
-\
-\
-\
 }
